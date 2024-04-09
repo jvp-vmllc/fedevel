@@ -1,0 +1,49 @@
+Added Pin To Net: NetName=+1V5 Pin=L1-1
+Added Pin To Net: NetName=PHASE1 Pin=L1-2
+Added Pin To Net: NetName=PHASE2 Pin=L2-1
+Added Pin To Net: NetName=+1V05 Pin=L2-2
+Added Pin To Net: NetName=NetC4_2 Pin=R1-1
+Added Pin To Net: NetName=+5V_LDO Pin=R1-2
+Added Pin To Net: NetName=+VIN Pin=R2-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R2-2
+Added Pin To Net: NetName=+5V_PVCC Pin=R3-1
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Pin To Net: NetName=NetC7_2 Pin=R4-1
+Added Pin To Net: NetName=NetC8_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R8-1
+Added Pin To Net: NetName=EN_1 Pin=R8-2
+Added Pin To Net: NetName=POK2 Pin=R9-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R9-2
+Added Pin To Net: NetName=POK1 Pin=R10-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R10-2
+Added Pin To Net: NetName=+5V_PVCC Pin=R11-1
+Added Pin To Net: NetName=EN_LDO Pin=R11-2
+Added Pin To Net: NetName=FB1 Pin=R12-1
+Added Pin To Net: NetName=+1V5 Pin=R12-2
+Added Pin To Net: NetName=FB1 Pin=R13-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R13-2
+Added Pin To Net: NetName=REFIN2 Pin=R14-1
+Added Pin To Net: NetName=+REF Pin=R14-2
+Added Pin To Net: NetName=REFIN2 Pin=R15-1
+Added Pin To Net: NetName=+VREF3 Pin=R15-2
+Added Pin To Net: NetName=REFIN2 Pin=R16-1
+Added Pin To Net: NetName=+5V_PVCC Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=FB1 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=REFIN2 Pin=R18-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-17
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-24
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-31
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-12
+Added Net: Name=NetR7_2
+Added Class: Name=Sheet1
