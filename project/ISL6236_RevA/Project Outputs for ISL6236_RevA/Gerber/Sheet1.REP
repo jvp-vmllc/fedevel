@@ -1,0 +1,241 @@
+*************************************************************
+FileName = Sheet1.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1
+      File : Sheet1.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : Sheet1.G1
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Sheet1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : Sheet1.G2
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Sheet1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : Sheet1.GP1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Sheet1.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D22
+*************************************************************
+
+*************************************************************
+Generating : L5
+      File : Sheet1.GP2
+
+    Adding Layer      : L5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : L6
+      File : Sheet1.GBL
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D23
+    D24
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Sheet1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Sheet1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Sheet1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Sheet1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L6
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Sheet1.GM
+
+
+Used DCodes :
+    D48
+*************************************************************
+
